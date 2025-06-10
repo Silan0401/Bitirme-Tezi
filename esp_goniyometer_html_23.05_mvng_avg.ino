@@ -6,8 +6,8 @@
 // ——————————————————————————
 // 1. Wi-Fi ayarları
 //——————————————————————————
-const char* ssid     = "POCO M3";
-const char* password = "9876543210";
+const char* ssid     = "USERNAME";
+const char* password = "PASSWORD";
 
 ESP8266WebServer server(80);
 MPU9250 mpu;
