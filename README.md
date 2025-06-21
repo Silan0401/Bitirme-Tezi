@@ -1,6 +1,10 @@
 # Wi-Fi Tabanlı Jiroskobik Gonyometre Sistemi
 
-Bu proje, insan vücudundaki tek bir eklemin (örneğin dirsek) açısını, ivmesini ve açısal hızını ölçebilen; jiroskopik sensör ve Wi-Fi haberleşme yeteneğine sahip bir mikrodenetleyicili gonyometre sisteminin tasarım ve prototip üretimini kapsamaktadır.
+Bu proje, insan vücudundaki tek bir eklemin (örneğin dirsek) açısını, ivmesini ve açısal hızını ölçebilen; jiroskopik sensör ve Wi-Fi haberleşme yeteneğine sahip bir mikrodenetleyicili gonyometre sisteminin tasarım ve prototip üretimini kapsamaktadır. 
+
+Bu çalışma, Danışman Hocam **Doç. Dr. Cabbar Veysel Baysal**'ın rehberliğinde, bitirme tezi kapsamında gerçekleştirilmiştir.
+
+Ayrıca proje süresince değerli katkıları ve desteği için arkadaşım **Muhammed Muqtar Fasasi**’ye özellikle teşekkür ederim.
 
 ## 🎯 Proje Hedefi
 
@@ -24,5 +28,3 @@ Bu proje, insan vücudundaki tek bir eklemin (örneğin dirsek) açısını, ivm
 ## ✅ Sonuç
 
 Testler sırasında sistem ±0.4° hata payı ile yüksek doğrulukta ölçümler sunmuştur. Kablosuz yapısı, düşük maliyeti ve kolay kullanımı ile fizyoterapi, kişisel hareket takibi ve bilimsel araştırmalar gibi alanlarda kullanılabilir potansiyele sahiptir.
-
-
